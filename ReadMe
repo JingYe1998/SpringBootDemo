@@ -1,0 +1,13 @@
+# Maven 是一個專案管理與自動化建構工具，它解決了軟體開發的兩大難題:
+  -如何建構專案
+  -如何管理各種軟體套件的依賴關係
+  -通過在 XML 檔案中描述專案的基本資訊、與外部模組的依賴關係、建構順序、目錄與外掛程式，並執行 Maven 預設的建構流程就可快速
+   完成編譯、打包等任務。Maven 會自動從遠端的程式庫下載依賴的函式庫與外掛程式，簡化手動下載的工作。
+
+# application.properties 存放著我們的Spring Boot的參數配置，
+  application.properties內是用來設定所有的配置檔案地方,ex:tomcat的port,資料庫連線資訊
+
+# ServletInitializer：ServletInitializer是一個介面，它用於定義Web應用程序的初始化過程。當您使用Servlet 3.0或更高版本的Java Web應用程序時
+  ，您可以創建一個實現ServletInitializer介面的類來配置您的應用程序。
+
+＃SpringbootdemoApplication：run整個專案的main class
